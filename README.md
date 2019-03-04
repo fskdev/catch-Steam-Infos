@@ -1,5 +1,5 @@
 # catch-Steam-Infos
-Sistema que obtém dados de um perfil steam via PHP
+Sistema que tem como objetivo obter dados de um perfil steam via PHP
 
 
 # Observações
